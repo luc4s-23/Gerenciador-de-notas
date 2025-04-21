@@ -12,3 +12,4 @@ C:\Users\Coquinha\Documents\arquivos de Dev\Projetos\VSCode.Projetos\Gerenciador
 C:\Users\Coquinha\Documents\arquivos de Dev\Projetos\VSCode.Projetos\Gerenciador de notas\obj\Debug\net9.0\Gerenciador de notas.pdb
 C:\Users\Coquinha\Documents\arquivos de Dev\Projetos\VSCode.Projetos\Gerenciador de notas\obj\Debug\net9.0\Gerenciador de notas.genruntimeconfig.cache
 C:\Users\Coquinha\Documents\arquivos de Dev\Projetos\VSCode.Projetos\Gerenciador de notas\obj\Debug\net9.0\ref\Gerenciador de notas.dll
+C:\Users\Coquinha\Documents\arquivos de Dev\Projetos\VSCode.Projetos\Gerenciador de notas\obj\Debug\net9.0\Gerenciador de notas.sourcelink.json
