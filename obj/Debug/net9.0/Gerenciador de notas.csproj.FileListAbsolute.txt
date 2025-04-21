@@ -1,0 +1,14 @@
+C:\Users\Coquinha\Documents\arquivos de Dev\Projetos\VSCode.Projetos\Gerenciador de notas\bin\Debug\net9.0\Gerenciador de notas.exe
+C:\Users\Coquinha\Documents\arquivos de Dev\Projetos\VSCode.Projetos\Gerenciador de notas\bin\Debug\net9.0\Gerenciador de notas.deps.json
+C:\Users\Coquinha\Documents\arquivos de Dev\Projetos\VSCode.Projetos\Gerenciador de notas\bin\Debug\net9.0\Gerenciador de notas.runtimeconfig.json
+C:\Users\Coquinha\Documents\arquivos de Dev\Projetos\VSCode.Projetos\Gerenciador de notas\bin\Debug\net9.0\Gerenciador de notas.dll
+C:\Users\Coquinha\Documents\arquivos de Dev\Projetos\VSCode.Projetos\Gerenciador de notas\bin\Debug\net9.0\Gerenciador de notas.pdb
+C:\Users\Coquinha\Documents\arquivos de Dev\Projetos\VSCode.Projetos\Gerenciador de notas\obj\Debug\net9.0\Gerenciador de notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coquinha\Documents\arquivos de Dev\Projetos\VSCode.Projetos\Gerenciador de notas\obj\Debug\net9.0\Gerenciador de notas.AssemblyInfoInputs.cache
+C:\Users\Coquinha\Documents\arquivos de Dev\Projetos\VSCode.Projetos\Gerenciador de notas\obj\Debug\net9.0\Gerenciador de notas.AssemblyInfo.cs
+C:\Users\Coquinha\Documents\arquivos de Dev\Projetos\VSCode.Projetos\Gerenciador de notas\obj\Debug\net9.0\Gerenciador de notas.csproj.CoreCompileInputs.cache
+C:\Users\Coquinha\Documents\arquivos de Dev\Projetos\VSCode.Projetos\Gerenciador de notas\obj\Debug\net9.0\Gerenciador de notas.dll
+C:\Users\Coquinha\Documents\arquivos de Dev\Projetos\VSCode.Projetos\Gerenciador de notas\obj\Debug\net9.0\refint\Gerenciador de notas.dll
+C:\Users\Coquinha\Documents\arquivos de Dev\Projetos\VSCode.Projetos\Gerenciador de notas\obj\Debug\net9.0\Gerenciador de notas.pdb
+C:\Users\Coquinha\Documents\arquivos de Dev\Projetos\VSCode.Projetos\Gerenciador de notas\obj\Debug\net9.0\Gerenciador de notas.genruntimeconfig.cache
+C:\Users\Coquinha\Documents\arquivos de Dev\Projetos\VSCode.Projetos\Gerenciador de notas\obj\Debug\net9.0\ref\Gerenciador de notas.dll

@@ -1,0 +1,2 @@
+﻿using Gerenciador_de_notas.models;
+
